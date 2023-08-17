@@ -22,6 +22,7 @@
 
 - Algoritmos y Estructura de Datos II
 - Organizacion del Computador
+- Introducción a la Lógica y la Computación
 
 ## Clonar el repositorio
 
